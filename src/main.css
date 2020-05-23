@@ -28,3 +28,35 @@
 img {
   max-height: 200px;
 }
+
+
+.card-body {
+  background-color: #fff;
+  border-bottom: 1px solid #c0c0c070;
+  border-right: 1px solid #c0c0c070;
+  border-left: 1px solid #c0c0c070;
+  margin-bottom: 25px;
+}
+
+/* Estilos header  */
+
+header {
+  position: sticky;
+  top: 0;
+  background-color: white;
+  z-index: 10;
+  height: 60px;
+  box-shadow: 2px 2px #c0c0c070;
+}
+
+header a {
+  color:#FF385C;
+}
+
+header img {
+  width: 100px;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+}
