@@ -4,8 +4,9 @@
 }
 
 .property-type {
-  color: #a52903;
+  color: #FF385C;
   font-weight: bold;
+  text-transform: uppercase;
 }
 
 .property-name {
@@ -27,6 +28,9 @@
 
 img {
   max-height: 200px;
+}
+footer a {
+  color: #FF385C;
 }
 
 
